@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+html,body{height:100%}
+body{font-family: 'Ranchers', cursive;}
+.main-title{text-align: center; color: blueviolet ;   
+text-shadow:2px 2px chartreuse; transform: rotate(-5deg);}
+.card{text-align: center;}
